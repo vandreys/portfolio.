@@ -1,4 +1,4 @@
-# portfolio.
+# Portfolio
 link: https://vandreys.github.io/portfolio./
 
 My Portfolio contains some of my projects and others that are in development, it also has links to other social networks like Github and Medium.
